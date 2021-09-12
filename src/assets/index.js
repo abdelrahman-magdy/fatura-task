@@ -1,0 +1,1 @@
+export { default as SearchIcon } from './icons/search-icon.svg' //like react
