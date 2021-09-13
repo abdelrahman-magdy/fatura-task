@@ -55,7 +55,7 @@ export default {
         let response = await serviceApi.get("", {
           params: {
             q: this.$store.getters.searchInput,
-            media_filter: "gif",
+            media_filter: "tinygif",
             key: apikey,
             limit: 16,
             pos: this.pos,

@@ -3,6 +3,7 @@
 #### search and get your images
 ## Fisrt time using VueJS
 #what i did
+- [x] [make it done]( task )
 - [x] [build ui]
 - [x] [vuex] (state management)
 <!-- - [x] [vuex](https://composition-api.vuejs.org/) -->
@@ -18,6 +19,7 @@
 #improvements
 - [x] [Skeleton] ( placeholder loading )
 - [x] [fetching] ( fetching data on scroll)
+- [ ] [make it good] ( task )
 - [ ] [lazy loading] ( page in routing )
 - [ ] [debounce function] ( in search input / and scroll )
 

@@ -5,7 +5,7 @@
       v-for="img of this.$store.getters.images"
       class="images-item"
     >
-      <img :src="img.media[0].gif.url" loading="lazy" alt="" />
+      <img :src="img.media[0].tinygif.url" loading="lazy" alt="" />
     </div>
   </div>
 </template>
