@@ -3,7 +3,7 @@
 #### search and get your images
 ## Fisrt time using VueJS
 #what i did
-- [x] [make it done]( task )
+- [x] [make it done] ( task )
 - [x] [build ui]
 - [x] [vuex] (state management)
 <!-- - [x] [vuex](https://composition-api.vuejs.org/) -->
